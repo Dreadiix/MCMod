@@ -7,3 +7,5 @@ net/mcreator/mcmod/McmodModElements.java
  net.mcreator.mcmod.McmodModElements
  net.mcreator.mcmod.McmodModElements$ModElement
  net.mcreator.mcmod.McmodModElements$ModElement$Tag
+net/mcreator/mcmod/fuel/DzqzsdqFuel.java
+ net.mcreator.mcmod.fuel.DzqzsdqFuel
