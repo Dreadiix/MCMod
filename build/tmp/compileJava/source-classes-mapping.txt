@@ -11,3 +11,5 @@ net/mcreator/mcmod/fuel/DzqzsdqFuel.java
  net.mcreator.mcmod.fuel.DzqzsdqFuel
 net/mcreator/mcmod/fuel/KjbFuel.java
  net.mcreator.mcmod.fuel.KjbFuel
+net/mcreator/mcmod/fuel/DfgdfgdgFuel.java
+ net.mcreator.mcmod.fuel.DfgdfgdgFuel
