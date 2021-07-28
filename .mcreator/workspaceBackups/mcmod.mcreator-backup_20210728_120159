@@ -18,15 +18,6 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "dzqzsdq"
-    },
-    {
-      "name": "Kjb",
-      "type": "fuel",
-      "sortid": 3,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "kjb"
     }
   ],
   "variable_elements": [],
